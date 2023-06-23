@@ -15,7 +15,7 @@ export const genres = [
   { title: 'Reggae', value: 'REGGAE_DANCE_HALL' },
   { title: 'House', value: 'HOUSE' },
   { title: 'K-Pop', value: 'K_POP' },
-];
+]; // Array with Object and each object containing 2 key-value pairs (title, value)
 
 export const links = [
   { name: 'Discover', to: '/', icon: HiOutlineHome },
